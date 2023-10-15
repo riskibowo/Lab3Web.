@@ -249,7 +249,8 @@ Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti beriku
 		}
 	</style>
 ```
-![image](https://github.com/riskibowo/Lab3Web./assets/115862112/3abac8b8-f62e-46cb-a2a4-c928acccbbd7)
+![image](https://github.com/riskibowo/Lab3Web./assets/115862112/919a9233-262a-48b0-9b90-9b7ba61271b7)
+
 
 
 
